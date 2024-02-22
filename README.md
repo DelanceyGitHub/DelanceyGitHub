@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DelanceyGitHub
 - 👀 Do coding for fun
-- 🌱 I’m currently working on... PetClinic project
+- 🌱 I’m currently working on... USACO training
 - 💞️ Looking for collaborators on certain projects
 - 📫 How to reach me ... delanceyatcary
